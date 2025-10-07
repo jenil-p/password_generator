@@ -14,7 +14,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Live Demo hosted in vercel: [passOP](http://localhost:3000) Please check it out
+Live Demo hosted in vercel: [passOP](https://password-generator-eight-indol-12.vercel.app/) Please check it out
 
 We have used Next.js for both frontend ans backend as well in this project.
 
