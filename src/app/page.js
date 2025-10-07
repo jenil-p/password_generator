@@ -14,7 +14,7 @@ export default function Home() {
       </div>
 
       <h1 className="text-4xl font-bold mb-6 text-theme text-center">
-        Welcome to Your Secure Vault
+        Welcome to Your passOP
       </h1>
 
       <div className="flex flex-col sm:flex-row gap-4">
@@ -34,7 +34,7 @@ export default function Home() {
       </div>
 
       <p className="mt-8 text-sm text-theme text-center">
-        Your passwords are fully encrypted and secure here...
+        Your passwords are fully encrypted and secure at passOP...
       </p>
     </div>
   );
